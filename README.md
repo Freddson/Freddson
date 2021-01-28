@@ -1,4 +1,4 @@
-![Me](https://i.imgur.com/AReyfcs.jpeg =800x00)
+<img src="https://i.imgur.com/AReyfcs.jpeg" alt="drawing" width="800" height="800"/>
 
 ### Hey there, I'm Freddson!
 
