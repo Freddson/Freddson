@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/AReyfcs.jpeg" alt="drawing" width="800" height="800"/>
+<img src="https://i.imgur.com/AReyfcs.jpeg" alt="drawing" width="100" height="100"/>
 
 ### Hey there, I'm Freddson!
 
