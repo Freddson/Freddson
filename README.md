@@ -1,4 +1,4 @@
-![Me](https://i.imgur.com/AReyfcs.jpeg)
+![Me](https://i.imgur.com/AReyfcs.jpeg =800x00)
 
 ### Hey there, I'm Freddson!
 
