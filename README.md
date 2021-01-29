@@ -13,3 +13,5 @@ I am a developer who absolutely loves coffee and tea. I usually code in JavaScri
 [![Freddson's github stats](https://github-readme-stats.vercel.app/api?username=Freddson&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/Freddson)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Freddson&langs_count=6&layout=compact)](https://github.com/Freddson)
+
+[![Spotify](https://Freddson.vercel.app/api/spotify)](https://open.spotify.com/user/11134635371)
