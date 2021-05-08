@@ -2,7 +2,7 @@
 
 ### Hey there, I'm Freddson!
 
-I am a developer who absolutely loves coffee and tea. I usually code in JavaScript/Node.JS. 
+I am a developer who absolutely loves coffee and tea. I usually code in Golang. 
 
 ### Here are my social media!
 
